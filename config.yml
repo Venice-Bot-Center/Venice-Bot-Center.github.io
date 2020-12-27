@@ -1,0 +1,43 @@
+baseUrl: /
+languageCode: it-it
+theme: terminal
+paginate: 5
+defaultContentLanguage: it
+
+params:
+  # dir name of your blog content (default is `content/posts`)
+  contentTypeName: posts
+  # ["orange", "blue", "red", "green", "pink"]
+  themeColor: blue
+  # if you set this to 0, only submenu trigger will be visible
+  showMenuItems: 3
+  # show selector to switch language
+  showLanguageSelector: false
+  # set theme to full screen width
+  fullWidthTheme: false
+  # center theme with default width
+  centerTheme: false
+
+languages:
+  it:
+    languageName: Italiano
+    title: Marea Bot Telegram
+    subtitle: Bot Telegram per la acqua alta a Venezia
+    keywords: ""
+    menuMore: Show more
+    readMore: Read more
+    readOtherPosts: Read other posts
+
+    params:
+      logo:
+        logoText: Terminal
+        logoHomeLink: /
+
+    menu:
+      main:
+        - identifier: about
+          name: Sul Bot
+          url: /about
+        - identifier: telegram
+          name: Telegram
+          url: https://t.me/mareavenezia
