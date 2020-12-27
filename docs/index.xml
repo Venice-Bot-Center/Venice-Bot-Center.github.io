@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marea Bot Telegram</title>
-    <link>/</link>
+    <link>https://samarcandaproject.github.io/mareabot.github.io/</link>
     <description>Recent content on Marea Bot Telegram</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>it-it</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>it-it</language><atom:link href="https://samarcandaproject.github.io/mareabot.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
