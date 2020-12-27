@@ -3,6 +3,7 @@ languageCode: it-it
 theme: terminal
 paginate: 5
 defaultContentLanguage: it
+publishDir: docs
 
 params:
   # dir name of your blog content (default is `content/posts`)
