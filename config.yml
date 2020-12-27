@@ -31,7 +31,7 @@ languages:
 
     params:
       logo:
-        logoText: Terminal
+        logoText: Marea Bot
         logoHomeLink: /
 
     menu:
