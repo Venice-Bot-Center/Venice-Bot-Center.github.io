@@ -1,4 +1,4 @@
-baseUrl: https://samarcandaproject.github.io/mareabot.github.io/
+baseUrl: https://mareabot.org
 languageCode: it-it
 theme: terminal
 paginate: 5
@@ -7,7 +7,7 @@ publishDir: docs
 
 params:
   # dir name of your blog content (default is `content/posts`)
-  contentTypeName: posts
+  contentTypeName: post
   # ["orange", "blue", "red", "green", "pink"]
   themeColor: blue
   # if you set this to 0, only submenu trigger will be visible
@@ -15,9 +15,9 @@ params:
   # show selector to switch language
   showLanguageSelector: false
   # set theme to full screen width
-  fullWidthTheme: false
+  fullWidthTheme: true
   # center theme with default width
-  centerTheme: false
+  centerTheme: true
 
 languages:
   it:
@@ -34,6 +34,10 @@ languages:
         logoText: Marea Bot
         logoHomeLink: /
 
+      twitter:
+        creator: fundor333
+        site: https:fundor333.com
+
     menu:
       main:
         - identifier: about
@@ -42,3 +46,6 @@ languages:
         - identifier: telegram
           name: Telegram
           url: https://t.me/mareavenezia
+        - identifier: codice
+          name: Codice
+          url: https://github.com/samarcandaproject/MareaBot

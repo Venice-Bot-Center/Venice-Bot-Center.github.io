@@ -3,15 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://samarcandaproject.github.io/mareabot.github.io/categories/</loc>
+    <loc>https://mareabot.org/tags/marea/</loc>
+    <lastmod>2020-12-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://samarcandaproject.github.io/mareabot.github.io/</loc>
+    <loc>https://mareabot.org/</loc>
+    <lastmod>2020-12-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://samarcandaproject.github.io/mareabot.github.io/tags/</loc>
+    <loc>https://mareabot.org/tags/mose/</loc>
+    <lastmod>2020-12-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mareabot.org/post/</loc>
+    <lastmod>2020-12-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mareabot.org/post/20201227-mose/</loc>
+    <lastmod>2020-12-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mareabot.org/tags/</loc>
+    <lastmod>2020-12-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mareabot.org/about/</loc>
+    <lastmod>2018-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mareabot.org/categories/</loc>
   </url>
   
 </urlset>
