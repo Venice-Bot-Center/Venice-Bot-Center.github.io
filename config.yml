@@ -19,6 +19,8 @@ params:
   # center theme with default width
   centerTheme: true
 
+  favicon: favicon.ico
+
 languages:
   it:
     languageName: Italiano
