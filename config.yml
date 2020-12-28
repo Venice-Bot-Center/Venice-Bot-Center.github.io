@@ -3,7 +3,7 @@ languageCode: it-it
 theme: hello-friend
 defaultContentLanguage: it
 disqusShortname: https-mareabot-org
-
+publishDir: docs
 copyright: ""
 paginate: 5
 
