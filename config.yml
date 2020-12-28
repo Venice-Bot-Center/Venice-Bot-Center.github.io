@@ -4,8 +4,8 @@ theme: hello-friend
 defaultContentLanguage: it
 disqusShortname: https-mareabot-org
 publishDir: docs
-copyright: ""
 paginate: 5
+googleAnalytics: G-GP45MH9DVJ
 
 params:
   # dir name of your blog content (default is `content/posts`)
