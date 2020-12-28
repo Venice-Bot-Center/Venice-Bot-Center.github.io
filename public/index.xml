@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marea Bot Telegram</title>
+    
+    
+    
+    <link>https://mareabot.org/</link>
+    <description>Recent content on Marea Bot Telegram</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-it</language>
+    <lastBuildDate>Sun, 27 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://mareabot.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Situazione del Mose</title>
+      <link>https://mareabot.org/post/20201227-mose/</link>
+      <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mareabot.org/post/20201227-mose/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Aggiornamento della situazione del Mose per quanto riguarda il bot
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Sul Bot</title>
+      <link>https://mareabot.org/about/</link>
+      <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mareabot.org/about/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Come è fatto? Nato da un progetto personale di un informatico è realizzato grazie a Python e agli open data del comune di Venezia.
+I dati sono affidabili? Da dove arrivano Ogni qualvolta il centro maree emette una previsione maggiore di 95 centimetri (segnati con una 🌟), l&amp;rsquo;intero bollettivo viene pubblicato. Viene tenuto qui solo l&amp;rsquo;ultimo bollettino e soltanto se contiene 🌟
+Se ho suggerimenti? Per info o segnalazioni scrivere a marea@fundor333.
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>

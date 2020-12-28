@@ -1,45 +1,38 @@
 baseUrl: https://mareabot.org
 languageCode: it-it
-theme: terminal
-paginate: 5
+theme: hello-friend
 defaultContentLanguage: it
-publishDir: docs
+disqusShortname: https-mareabot-org
+
+copyright: ""
+paginate: 5
 
 params:
   # dir name of your blog content (default is `content/posts`)
   contentTypeName: post
-  # ["orange", "blue", "red", "green", "pink"]
-  themeColor: blue
+  # "dark" or "light"
+  defaultTheme: dark
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems: 3
-  # show selector to switch language
-  showLanguageSelector: false
-  # set theme to full screen width
-  fullWidthTheme: true
-  # center theme with default width
-  centerTheme: true
-
-  favicon: favicon.ico
 
 languages:
   it:
-    languageName: Italiano
     title: Marea Bot Telegram
     subtitle: Bot Telegram per la acqua alta a Venezia
     keywords: ""
     menuMore: Show more
-    readMore: Read more
-    readOtherPosts: Read other posts
+    writtenBy: Di
+    readMore: Leggi di più
+    readOtherPosts: Leggi altro
+    newerPosts: Post più recenti
+    olderPosts: Post più vecchi
+    dateFormatSingle: 2006-01-02
+    dateFormatList: 2006-01-02
 
     params:
       logo:
-        logoText: Marea Bot
-        logoHomeLink: /
-
-      twitter:
-        creator: fundor333
-        site: https:fundor333.com
-
+        path: /blue.png
+        alt: Marea Bot
     menu:
       main:
         - identifier: about
