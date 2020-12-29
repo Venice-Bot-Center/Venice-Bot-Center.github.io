@@ -6,11 +6,11 @@ author = "Fundor333"
 
 ## Come è fatto?
 
-Questo progetto è nato da un progetto personale di un informatico è realizzato grazie a Python e agli open data del comune di Venezia.
+Questo progetto è nato da un progetto personale di un informatico ed è realizzato grazie a Python e agli open data del comune di Venezia.
 
 ## I dati sono affidabili? Da dove arrivano
 
-Ogni qualvolta il centro maree emette una previsione maggiore di 95 centimetri (segnati con una 🌟), l'intero bollettivo viene pubblicato. Viene tenuto qui solo l'ultimo bollettino e soltanto se contiene 🌟.[^1]
+Ogni qualvolta il centro maree emette una previsione maggiore di 95 centimetri (segnati con una 🌟), l'intero bollettivo viene pubblicato. Viene tenuto nei messaggi inviati del bot solo l'ultimo bollettino e soltanto se contiene 🌟.[^1]
 
 [^1]:Fonte [Opendata del centro maree](https://www.comune.venezia.it/it/content/dati-e-statistiche-0)
 
