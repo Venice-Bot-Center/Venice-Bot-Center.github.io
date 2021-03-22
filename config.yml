@@ -1,8 +1,8 @@
-baseUrl: https://mareabot.org
+baseUrl: https://venicebotcenter.org
 languageCode: it-it
 theme: hello-friend
 defaultContentLanguage: it
-disqusShortname: https-mareabot-org
+disqusShortname: venice-bot-center
 publishDir: docs
 paginate: 5
 googleAnalytics: G-GP45MH9DVJ
