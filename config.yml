@@ -6,6 +6,7 @@ disqusShortname: "venice-bot-center"
 publishDir: "docs"
 paginate: 5
 googleAnalytics: "G-GP45MH9DVJ"
+title: Venice Bot Center
 
 enableRobotsTXT: true
 
@@ -24,15 +25,15 @@ params:
   DateFormat: "2006-01-02"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
+  ShowBreadCrumbs: true
 
   ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true
-  ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
   disableSpecial1stPost: false
   disableScrollToTop: false
-  comments: false
+  comments: true
   hidemeta: false
   hideSummary: false
   showtoc: false
@@ -47,9 +48,10 @@ params:
     # apple_touch_icon: "<link / abs url>"
     # safari_pinned_tab: "<link / abs url>"
 
+
   label:
     text: "Home"
-    icon: /apple-touch-icon.png
+    icon: "/blue.png"
     iconHeight: 35
 
   # profile-mode
@@ -57,7 +59,7 @@ params:
     enabled: false # needs to be explicitly set
     title: "Venice Bot Center"
     subtitle: "Bot per Venezia"
-    imageUrl: "/img/blue.png"
+    imageUrl: "/blue.png"
     imageWidth: 120
     imageHeight: 120
     imageTitle: logo
@@ -98,7 +100,7 @@ menu:
     - identifier: tags
       name: Tag Articoli
       url: /tags/
-      weight: 20
+      weight: 2000000000
     - identifier: MareaBot
       name: MareaBot
       url: https://t.me/mareavenezia

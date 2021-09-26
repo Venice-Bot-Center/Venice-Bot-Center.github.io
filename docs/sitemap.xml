@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://venicebotcenter.org/</loc>
-    <lastmod>2020-12-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://venicebotcenter.org/tags/bot/</loc>
     <lastmod>2020-12-27T00:00:00+00:00</lastmod>
   </url><url>
@@ -17,10 +14,13 @@
     <loc>https://venicebotcenter.org/post/</loc>
     <lastmod>2020-12-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://venicebotcenter.org/post/20201227-mose/</loc>
+    <loc>https://venicebotcenter.org/post/2020/mose/</loc>
     <lastmod>2020-12-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://venicebotcenter.org/tags/</loc>
+    <lastmod>2020-12-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://venicebotcenter.org/</loc>
     <lastmod>2020-12-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://venicebotcenter.org/about/</loc>

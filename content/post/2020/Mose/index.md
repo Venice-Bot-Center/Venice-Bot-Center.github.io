@@ -1,7 +1,7 @@
 ---
 title : "Situazione del Mose"
 date : "2020-12-27"
-author : "Fundor333"
+author: "Venice Bot Center"
 description : "Aggiornamento della situazione del Mose per quanto riguarda il bot"
 tags: ["mose", "marea","bot"]
 thumbnail: "blue.png" # Optional, thumbnail

@@ -18,6 +18,7 @@ clean:  ## Clean the directory of the project of chache e meta file
 run: clean  ## Build the site cleaning all
 	hugo
 
+
 .PHONY: new
-new: ## Nuovo post parametro title=titolo
-	hugo new --kind post $(title)
+new: ## Make new object for the blog
+	python make-post.py

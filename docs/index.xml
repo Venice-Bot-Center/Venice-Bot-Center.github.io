@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title></title>
+    <title>Venice Bot Center</title>
     <link>https://venicebotcenter.org/</link>
-    <description>Recent content on </description>
+    <description>Recent content on Venice Bot Center</description>
     <image>
       <url>https://venicebotcenter.org/blue.png</url>
       <link>https://venicebotcenter.org/blue.png</link>
@@ -13,10 +13,10 @@
     <lastBuildDate>Sun, 27 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://venicebotcenter.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Situazione del Mose</title>
-      <link>https://venicebotcenter.org/post/20201227-mose/</link>
+      <link>https://venicebotcenter.org/post/2020/mose/</link>
       <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://venicebotcenter.org/post/20201227-mose/</guid>
+      <guid>https://venicebotcenter.org/post/2020/mose/</guid>
       <description>Aggiornamento della situazione del Mose per quanto riguarda il bot</description>
     </item>
     

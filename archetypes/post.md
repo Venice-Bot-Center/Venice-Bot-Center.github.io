@@ -4,7 +4,7 @@ date: {{ .Date }}
 # weight: 1
 # aliases: ["/first"]
 tags: ["bot"]
-author: "Fundor333"
+author: "Venice Bot Center"
 # author: ["Me", "You"] # multiple authors
 showToc: false
 TocOpen: false
