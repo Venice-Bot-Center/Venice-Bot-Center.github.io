@@ -19,7 +19,6 @@ searchHidden: true
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
-draft: true
 ---
 
 # Situazione attuale
