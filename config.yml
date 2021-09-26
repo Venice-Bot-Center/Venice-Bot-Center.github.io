@@ -63,8 +63,8 @@ params:
     imageHeight: 120
     imageTitle: logo
     buttons:
-      - name: Tag Articoli
-        url: /tags/
+      - name: Articoli
+        url: /post/
       - name: MareaBot
         url: https://t.me/mareavenezia
       - name: PolliniBot
