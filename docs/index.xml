@@ -1,37 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Venice Bot Center</title>
-    
-    
-    
+    <title></title>
     <link>https://venicebotcenter.org/</link>
-    <description>Recent content on Venice Bot Center</description>
+    <description>Recent content on </description>
+    <image>
+      <url>https://venicebotcenter.org/blue.png</url>
+      <link>https://venicebotcenter.org/blue.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-it</language>
-    <lastBuildDate>Sun, 27 Dec 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://venicebotcenter.org/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 27 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://venicebotcenter.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Situazione del Mose</title>
       <link>https://venicebotcenter.org/post/20201227-mose/</link>
       <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://venicebotcenter.org/post/20201227-mose/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          Aggiornamento della situazione del Mose per quanto riguarda il bot
-          
-        
-        </description>
+      <description>Aggiornamento della situazione del Mose per quanto riguarda il bot</description>
     </item>
     
     <item>
@@ -40,19 +26,8 @@
       <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>https://venicebotcenter.org/about/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          Come è fatto? Questo progetto è nato da un progetto personale di un informatico ed è realizzato grazie a Python e agli open data del comune di Venezia.
-I dati sono affidabili? Da dove arrivano Ogni qualvolta il centro maree emette una previsione maggiore di 95 centimetri (segnati con una 🌟), l&amp;rsquo;intero bollettivo viene pubblicato. Viene tenuto nei messaggi inviati del bot solo l&amp;rsquo;ultimo bollettino e soltanto se contiene 🌟.1
-          
-        
-        </description>
+      <description>Come è fatto? Questo progetto è nato da un progetto personale di un informatico ed è realizzato grazie a Python e agli open data del comune di Venezia.
+I dati sono affidabili? Da dove arrivano Ogni qualvolta il centro maree emette una previsione maggiore di 95 centimetri (segnati con una 🌟), l&amp;rsquo;intero bollettivo viene pubblicato. Viene tenuto nei messaggi inviati del bot solo l&amp;rsquo;ultimo bollettino e soltanto se contiene 🌟.1</description>
     </item>
     
   </channel>

@@ -17,3 +17,7 @@ clean:  ## Clean the directory of the project of chache e meta file
 .PHONY: run
 run: clean  ## Build the site cleaning all
 	hugo
+
+.PHONY: new
+new: ## Nuovo post parametro title=titolo
+	hugo new --kind post $(title)
