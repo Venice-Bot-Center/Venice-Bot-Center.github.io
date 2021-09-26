@@ -12,6 +12,7 @@ developall: ## Run the site localy with all the article, future or drafts
 	hugo server --disableFastRender --buildFuture --buildDrafts
 
 clean:  ## Clean the directory of the project of chache e meta file
+	rm -vr docs
 	hugo --gc
 
 .PHONY: run
