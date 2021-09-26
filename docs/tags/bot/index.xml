@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>bot on Venice Bot Center</title>
     <link>https://venicebotcenter.org/tags/bot/</link>
     <description>Recent content in bot on Venice Bot Center</description>
+    <image>
+      <url>https://venicebotcenter.org/blue.png</url>
+      <link>https://venicebotcenter.org/blue.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-it</language>
     <lastBuildDate>Sun, 26 Sep 2021 18:41:13 +0200</lastBuildDate><atom:link href="https://venicebotcenter.org/tags/bot/index.xml" rel="self" type="application/rss+xml" />
@@ -13,10 +17,7 @@
       <pubDate>Sun, 26 Sep 2021 18:41:13 +0200</pubDate>
       
       <guid>https://venicebotcenter.org/post/2021/aggiornamento-situazione-mose/</guid>
-      <description>Situazione attuale Abbiamo aggiornamenti sul Mose e sui nostri bot. Le due cose sono collegate pultroppo ma, per fortuna, eravamo preparati.
-Aggiornamento Mose È stato annunciato e confermato che:
- Il Mose rimane in prova per altri due anni1 Il Mose si alzerà solo da 130cm in su1  Questo significa che se la previsione della marea è tra 90cm e 130com che corrisponde all&amp;rsquo;intervallo dal 2% al 46%2.
-Pur sperando in un Autunno senza acqua alta bisogna quindi prepararsi al peggio.</description>
+      <description>Aggiornamento della situazione del Mose</description>
     </item>
     
     <item>
@@ -25,8 +26,7 @@ Pur sperando in un Autunno senza acqua alta bisogna quindi prepararsi al peggio.
       <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://venicebotcenter.org/post/2020/mose/</guid>
-      <description>Risulta sempre più importante sapere le condizioni del Mose assieme alla previsione della marea in quanto questo può cambiare completamente la nostra necessità di stivali e le scelte di percorso o quello che ci organiziamo a fare in quella specifica giornata.
-Per come attualmente funziona il Mose viene attivato n ore prima e solitamente solo se sono previsti almeno 130 cm di marea. 1 Attualmente è il centro maree che invia, attraverso alcuni dei suoi canali, il fatto che il Mose verrà messo in funzione e la data della messa in funzione ma non da che ora a che ora le bocche di porto saranno chiuse o altre informazioni.</description>
+      <description>Aggiornamento della situazione del Mose per quanto riguarda il bot</description>
     </item>
     
   </channel>
