@@ -1,6 +1,6 @@
 baseUrl: "https://venicebotcenter.org"
 languageCode: "it-it"
-theme: "PaperMod"
+theme: 'PaperMod'
 defaultContentLanguage: "it"
 disqusShortname: "venice-bot-center"
 publishDir: "docs"
@@ -15,7 +15,6 @@ minify:
   minifyOutput: true
 
 params:
-  env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Venice Bot Center
   description: "Sito del gruppo github di sviluppo bot per la città di venezia Venezia"
   keywords: [Blog, Bot, Telegram, Venezia]
@@ -56,7 +55,7 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
+    enabled: true # needs to be explicitly set
     title: "Venice Bot Center"
     subtitle: "Bot per Venezia"
     imageUrl: "/blue.png"
@@ -64,10 +63,13 @@ params:
     imageHeight: 120
     imageTitle: logo
     buttons:
-      - name: Posts
-        url: posts
-      - name: Tags
-        url: tags
+      - name: Tag Articoli
+        url: /tags/
+      - name: MareaBot
+        url: https://t.me/mareavenezia
+      - name: PolliniBot
+        url: https://t.me/pollini_veneziani
+
 
   # home-info mode
   homeInfoParams:
@@ -96,7 +98,6 @@ Attualmente supportiamo un bot per le segnalazioni delle Maree e dei Pollini per
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-
     - identifier: tags
       name: Tag Articoli
       url: /tags/
@@ -109,3 +110,9 @@ menu:
       name: PolliniBot
       url: https://t.me/pollini_veneziani
       weight: 40
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
+
