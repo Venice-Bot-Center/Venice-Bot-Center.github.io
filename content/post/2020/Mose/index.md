@@ -5,11 +5,6 @@ author: "Venice Bot Center"
 description : "Aggiornamento della situazione del Mose per quanto riguarda il bot"
 tags: ["mose", "marea","bot"]
 thumbnail: "blue.png" # Optional, thumbnail
-showToc: false
-TocOpen: false
-hidemeta: false
-comments: false
-searchHidden: true
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true

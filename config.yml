@@ -110,6 +110,10 @@ menu:
       name: PolliniBot
       url: https://t.me/pollini_veneziani
       weight: 40
+    - identifier: search
+      name: 🔎
+      url: /search/
+      weight: 999999999999999
 outputs:
     home:
         - HTML

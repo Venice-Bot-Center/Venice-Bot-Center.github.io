@@ -6,19 +6,7 @@ date: 2021-09-26T18:41:13+02:00
 tags: ["bot", "marea", "mose", "polline"]
 author: "Venice Bot Center"
 # author: ["Me", "You"] # multiple authors
-showToc: false
-TocOpen: false
-hidemeta: false
-comments: false
 description: "Aggiornamento della situazione del Mose"
-disableHLJS: true # to disable highlightjs
-disableShare: false
-disableHLJS: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
 ---
 
 # Situazione attuale
